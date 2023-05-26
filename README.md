@@ -13,14 +13,14 @@
 
 ✅**基于2023年最新的*Pytorch*和*HugginFace Transformers*框架实现**
 
-**的第一张图：有监督和无监督条件下模型输入输出格式**
+**第一张图：有监督和无监督条件下模型输入输出格式**
 
-![image](images/1.png)
+![image](images/1.png =100)
 
 **第二张图：无监督训练方式对应的损失函数示意图**
 
-![image](images/2.png)
+![image](images/2.png =200)
 
 **第三张图：有监督训练方式对应的损失函数示意图**
 
-![image](images/3.png)
+![image](images/3.png =300)
