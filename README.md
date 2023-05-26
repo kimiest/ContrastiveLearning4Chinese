@@ -15,7 +15,7 @@
 
 **第一张图：有监督和无监督条件下模型输入输出格式**
 
-<img src="https://github.com/仓库名/项目名/blob/master/m/20200424230936851.png" width="200" height="200" alt="抖音小程序"/><br/>
+<img src="https://github.com/kimiest/ContrastiveLearning4Chinese/blob/main/images/1.png" width="200" height="200" alt="抖音小程序"/><br/>
 
 **第二张图：无监督训练方式对应的损失函数示意图**
 
