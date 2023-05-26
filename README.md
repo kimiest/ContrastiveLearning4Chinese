@@ -1,8 +1,4 @@
 # ContrastiveLearning4Chinese
-
-
-
-
 🧡💛💚**用于中文句子表征的对比学习，模型为SimCSE**🧡💛💚
 <br/><br/><br/><br/>
 ✅**采用两种正负例构建方式：**<br/>
