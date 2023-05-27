@@ -9,14 +9,14 @@
 <br/><br/>
 ✅**基于2023年最新的*Pytorch*和*HugginFace Transformers*框架实现**
 <br/><br/>
-**第一张图：有监督和无监督条件下模型输入输出格式**
+**第一张图：有监督和无监督条件下数据的流入和流出格式**
 
 <img src="https://github.com/kimiest/ContrastiveLearning4Chinese/blob/main/images/1.png" width="400" height="400" alt="图1"/><br/>
 
-**第二张图：无监督训练方式对应的损失函数示意图**
+**第二张图：无监督训练方式对应的损失函数计算方式示意图**
 
 <img src="https://github.com/kimiest/ContrastiveLearning4Chinese/blob/main/images/2.png" width="700" height="400" alt="图2"/><br/>
 
-**第三张图：有监督训练方式对应的损失函数示意图**
+**第三张图：有监督训练方式对应的损失函数计算方式示意图**
 
 <img src="https://github.com/kimiest/ContrastiveLearning4Chinese/blob/main/images/3.png" width="700" height="400" alt="图3"/><br/>
